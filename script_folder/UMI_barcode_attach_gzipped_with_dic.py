@@ -63,6 +63,7 @@ def UMI_attach_read2_barcode_list(sample, input_folder, output_folder, ligation_
                 f3.write(second_line)
 
                 third_line = f2.readline()
+                third_line = '+\n'
                 f3.write(third_line)
 
                 four_line = f2.readline()

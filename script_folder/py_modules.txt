@@ -1,0 +1,16 @@
+Levenshtein
+functools
+matplotlib.backends.backend_pdf
+multiprocessing
+HTSeq
+collections
+gzip
+itertools
+logging
+matplotlib
+matplotlib.pyplot
+numpy
+pandas
+pickle
+subprocess
+sys
